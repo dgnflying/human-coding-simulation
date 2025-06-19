@@ -11,5 +11,6 @@ Snippets for supported languages are public.
 
 # Future plans  
 
-- Multilanguage support ***(WIP)***  
+- ~~Javascript support~~
+- Python support
 - Seamless integration  
